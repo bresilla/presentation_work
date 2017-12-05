@@ -27,7 +27,7 @@ Different tools have been created to build such datasets:
 
 ![image_01](./assets/camera_types.png)
 
-Computer sees the world as a grid of numbers. Even though those numbers in root are binary, so each number as seen here goes from 0-255, and in 
+Computer sees the world as a grid of numbers. Even though those numbers in root are binary, so each number as seen here goes from 0-255, while actually each number is a binary: 255 = 0b11111111
 
 ![image_01](./assets/matrix_image.png)
 
