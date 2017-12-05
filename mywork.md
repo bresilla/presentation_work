@@ -56,9 +56,9 @@ Low-level image processing algorithms include:
 3. Classification
 4. Feature detection and matching
 
-- Point operators
+There are two kind of very distinctive operations in image processing:
 
-  ​	- Pixel by pixel operator, be that: addition, subtraction, multiplication, division and so on
+- Point operators
 
   - Pixel transformation
   - Color transformation
