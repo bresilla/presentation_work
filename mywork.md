@@ -76,6 +76,10 @@ There are two kind of very distinctive operations in image processing:
 
 ![image_01](./assets/filters_2.png)
 
+
+
+![image_01](./assets/open_cv.png)
+
 Bringing them all together:
 
 ![image_01](./assets/apple.jpg)
@@ -87,6 +91,8 @@ Bringing them all together:
 ![image_01](./assets/apple_segment.png)
 
 ![image_01](./assets/radial_apple.png)
+
+The whole pipeline goes something like this:
 
 ![image_01](./assets/diagram.png)
 
@@ -102,3 +108,12 @@ Examples of high-level image analysis are:
 3. Object tracking
 
 ![image_01](./assets/apple_processsed.jpg)
+
+Another example:
+
+![image_01](./assets/sobel_paper.png)
+
+![image_01](./assets/sobel_01.png)
+
+![image_01](./assets/sobel_02.png)
+
