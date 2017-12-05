@@ -51,8 +51,8 @@ Low-level image processing algorithms include:
 
 1. Segmentation
 2. Edge detection
-3. Classification
-4. Feature detection and matching
+3. Feature detection
+4. Classificationa
 
 There are two kind of very distinctive operations in image processing:
 
@@ -76,13 +76,19 @@ There are two kind of very distinctive operations in image processing:
 
 ![image_01](./assets/filters_2.png)
 
+Bringing them all together:
+
 ![image_01](./assets/apple.jpg)
 
 ![image_01](./assets/apple_edge.png)
 
 ![image_01](./assets/apple_color_filter.png)
 
-![image_01](./assets/apple_processsed.jpg)
+![image_01](./assets/apple_segment.png)
+
+![image_01](./assets/radial_apple.png)
+
+![image_01](./assets/diagram.png)
 
 ## Image analysis and understanding
 
@@ -94,3 +100,5 @@ Examples of high-level image analysis are:
 1. Scene mapping
 2. Object recognition
 3. Object tracking
+
+![image_01](./assets/apple_processsed.jpg)
