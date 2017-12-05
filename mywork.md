@@ -37,8 +37,6 @@ Each number on the list represent three colors: Red, Green, and Blue.
 
 ![image_01](./assets/image_rgb.png)
 
-The biggest challenge is to understand the picture. What does it represent, how can we extract features and so on...
-
 If we look the picture as a function then we can plot something like this:
 
 ![image_01](./assets/image_as_function.png)
@@ -51,8 +49,8 @@ This step usually involves advanced applied mathematics algorithms and technique
 
 Low-level image processing algorithms include:
 
-1. Edge detection
-2. Segmentation
+1. Segmentation
+2. Edge detection
 3. Classification
 4. Feature detection and matching
 
@@ -77,6 +75,14 @@ There are two kind of very distinctive operations in image processing:
 ![image_01](./assets/edge_3.png)
 
 ![image_01](./assets/filters_2.png)
+
+![image_01](./assets/apple.jpg)
+
+![image_01](./assets/apple_edge.png)
+
+![image_01](./assets/apple_color_filter.png)
+
+![image_01](./assets/apple_processsed.jpg)
 
 ## Image analysis and understanding
 
