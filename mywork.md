@@ -228,3 +228,27 @@ Just an example to show how powerful CNN can be:
 
 ## Now let's talk apples & pears
 
+~50 Apples per tree
+
+80-90% visible by eye
+
+90-95% detected
+
+![image_01](./assets/001.png)
+
+![image_01](./assets/002.png)
+
+![image_01](./assets/003.png)
+
+~60 Pears per tree
+
+60-70% visible by eye
+
+90-95% detected
+
+![image_01](./assets/004.png)
+
+![image_01](./assets/005.png)
+
+
+
