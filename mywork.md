@@ -212,7 +212,7 @@ Tube CNN - 2017
 
 ![image_01](./assets/tube-cnn.png)
 
-Just an example to show how powerful CNN can be:
+**For amusement** - an example to show how powerful CNN can be:
 
 ![image_01](./assets/cool_example.png)
 
@@ -251,4 +251,47 @@ Just an example to show how powerful CNN can be:
 ![image_01](./assets/005.png)
 
 
+
+# Near-future plans, **future-future plans** and robotics degree
+
+Near Future - Until April :/
+
+1. Write the paper for International Precision Agriculture Symposium - Canada
+2. Write the paper for ISHS - Turkey
+3. ??? - Write the paper for Computers in Agriculture
+
+Future-future plans:
+
+1. Marie Curie Individual Fellowship (or) The crazy idea European project (Bru knows)
+2. Second semester of my robotics program
+3. Talk to Marco if they want to implement their algorithm with AI
+4. Write the thesis
+
+-- DRONE
+
+-- ROBOTICS
+
+first term:
+
+project 1 - ROBOTIC OPERATING SYSTEM : https://www.youtube.com/watch?v=rDij00NB7pA
+
+project 2 - KINEMATICS: https://www.youtube.com/watch?v=46RcDaRluGc
+
+project 3: PERCEPTION: https://www.youtube.com/watch?v=v3lSNYWOniU
+
+project 4: DEEP LEARNING
+
+project 5: CONTROL: https://www.youtube.com/watch?v=lLcO5We0P6A
+
+second term:
+
+project 1: Robotics Systems Deployment
+
+project 2: Localization
+
+project 3: SLAM - Simultaneous Localization and Mapping
+
+project 4: Reinforcement Learning for Robotics
+
+project 5: Path Planning and Navigation
 
