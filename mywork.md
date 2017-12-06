@@ -4,7 +4,7 @@
 
 ---
 
-# Classic computer vision
+# Computer vision
 
 The goal of Computer Vision is to emulate human vision using digital images through three main processing  components, executed one after the other:
 
@@ -117,3 +117,46 @@ Another example:
 
 ![image_01](./assets/sobel_02.png)
 
+
+
+# Deep learning and convolutional neural networks
+
+## Neural networks - very simplified
+
+Neural networks are just a massive number of functions trying to solve a problem.
+
+![image_01](./assets/nn1.png)
+
+- Perceptron (trying to simulate synapse)
+
+  ![image_01](./assets/nn2.png)
+
+  ![image_01](./assets/nn3.png)
+
+  - Forward propagation
+    - Input summation
+    - soft-max 
+    - activation function
+  - Backward propagation
+    - Error function
+    - Gradient descent
+
+  ![image_01](./assets/nn4.png)
+
+Classification: (million inputs from a 20mpx camera)
+
+![image_01](./assets/nn5.png)
+
+But if we use neural nets for pictures, we lose the spatial informtions about it. Its very important for images to know where exactly is a pixel related to another pixel. And that why CNNs come to play.
+
+## Convolutional neural networks (CNNs) or ConvNets
+
+They have three main steps:
+
+![image_01](./assets/cnn1.png)
+
+![image_01](./assets/cnn2.png)
+
+![image_01](./assets/cnn3.png)
+
+![image_01](./assets/cnn0.png)
