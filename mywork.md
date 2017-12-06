@@ -263,7 +263,7 @@ Near Future - Until April :/
 Future-future plans:
 
 1. Marie Curie Individual Fellowship (or) The crazy idea European project (Bru knows)
-2. Second semester of my robotics program
+2. Second semester of my robotics program and **maybe** enroll in another degree just oriented in AI and DeepLearning
 3. Talk to Marco if they want to implement their algorithm with AI
 4. Write the thesis
 
@@ -273,8 +273,8 @@ Future-future plans:
 
 first term:
 
-- project 1 - ROBOTIC OPERATING SYSTEM : https://www.youtube.com/watch?v=rDij00NB7pA
-- project 2 - KINEMATICS: https://www.youtube.com/watch?v=46RcDaRluGc
+- project 1: ROBOTIC OPERATING SYSTEM : https://www.youtube.com/watch?v=rDij00NB7pA
+- project 2: KINEMATICS: https://www.youtube.com/watch?v=46RcDaRluGc
 - project 3: PERCEPTION: https://www.youtube.com/watch?v=v3lSNYWOniU
 - project 4: DEEP LEARNING
 - project 5: CONTROL: https://www.youtube.com/watch?v=lLcO5We0P6A
@@ -291,4 +291,4 @@ second term:
 
 ## DRONE
 
-<<>>
+https://www.youtube.com/watch?v=H7Ym3DMSGms
