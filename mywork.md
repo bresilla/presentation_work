@@ -292,3 +292,17 @@ second term:
 ## DRONE
 
 https://www.youtube.com/watch?v=H7Ym3DMSGms
+
+
+
+Training a model that when it sees this picture (or similar), it returns a R - to turn right.
+
+![image_01](./assets/right.jpg)
+
+when it sees this picture (or similar), it returns a L - to turn left.
+
+![image_01](./assets/left.jpg)
+
+when it sees this picture (or similar), it returns a S - to go straight.
+
+![image_01](./assets/straight.jpg)
