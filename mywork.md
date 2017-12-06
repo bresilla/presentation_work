@@ -267,31 +267,28 @@ Future-future plans:
 3. Talk to Marco if they want to implement their algorithm with AI
 4. Write the thesis
 
--- DRONE
 
--- ROBOTICS
+
+## ROBOTICS
 
 first term:
 
-project 1 - ROBOTIC OPERATING SYSTEM : https://www.youtube.com/watch?v=rDij00NB7pA
-
-project 2 - KINEMATICS: https://www.youtube.com/watch?v=46RcDaRluGc
-
-project 3: PERCEPTION: https://www.youtube.com/watch?v=v3lSNYWOniU
-
-project 4: DEEP LEARNING
-
-project 5: CONTROL: https://www.youtube.com/watch?v=lLcO5We0P6A
+- project 1 - ROBOTIC OPERATING SYSTEM : https://www.youtube.com/watch?v=rDij00NB7pA
+- project 2 - KINEMATICS: https://www.youtube.com/watch?v=46RcDaRluGc
+- project 3: PERCEPTION: https://www.youtube.com/watch?v=v3lSNYWOniU
+- project 4: DEEP LEARNING
+- project 5: CONTROL: https://www.youtube.com/watch?v=lLcO5We0P6A
 
 second term:
 
-project 1: Robotics Systems Deployment
+- project 1: Robotics Systems Deployment
+- project 2: Localization
+- project 3: SLAM - Simultaneous Localization and Mapping
+- project 4: Reinforcement Learning for Robotics
+- project 5: Path Planning and Navigation
 
-project 2: Localization
 
-project 3: SLAM - Simultaneous Localization and Mapping
 
-project 4: Reinforcement Learning for Robotics
+## DRONE
 
-project 5: Path Planning and Navigation
-
+<<>>
