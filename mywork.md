@@ -121,7 +121,7 @@ Another example:
 
 # Deep learning and convolutional neural networks
 
-## Neural networks - very simplified
+## Neural networks - very -very -very (still very) simplified
 
 Neural networks are just a massive number of functions trying to solve a problem.
 
@@ -134,29 +134,97 @@ Neural networks are just a massive number of functions trying to solve a problem
   ![image_01](./assets/nn3.png)
 
   - Forward propagation
+
     - Input summation
     - soft-max 
     - activation function
+
   - Backward propagation
+
     - Error function
+
     - Gradient descent
 
+      ​							**(We know the results of training set)**
+
   ![image_01](./assets/nn4.png)
+
+  ![image_01](./assets/nn6.png)
+
+  There are a lot of libraries, a lot. and are amazing, they take off you hands those complex math operations, and give you simple API. However for purpose of study i had to implement everything (as you can tell, those are my notes)
 
 Classification: (million inputs from a 20mpx camera)
 
 ![image_01](./assets/nn5.png)
 
-But if we use neural nets for pictures, we lose the spatial informtions about it. Its very important for images to know where exactly is a pixel related to another pixel. And that why CNNs come to play.
+But if we use neural nets for pictures, we lose the spatial informations about it. Its very important for images to know where exactly is a pixel related to another pixel. And that why CNNs come to play.
 
 ## Convolutional neural networks (CNNs) or ConvNets
 
 They have three main steps:
 
+### Convolution step or Filtering
+
+ConvNets derive their name from the [“convolution” operator](http://en.wikipedia.org/wiki/Convolution). The primary purpose of Convolution in case of a ConvNet is to extract  features from the input image. Convolution preserves the spatial relationship between pixels by learning image features using small squares of input data. We will not go into the mathematical details of Convolution here, but will try to understand how it works over images.
+
 ![image_01](./assets/cnn1.png)
 
+In CNN terminology, the 3×3 matrix is called a ‘**filter**‘ or ‘kernel’ or ‘feature detector’ and the matrix formed by sliding the 
+filter over the image and computing the dot product is called the ‘Convolved Feature’ or ‘Activation Map’ or the ‘**Feature Map**‘. It is important to note that filters acts as feature detectors from the original input image.
+
+![image_01](./assets/filters_3.png)
+
+![image_01](./assets/giphy.gif)
+
+### Spatial pooling
+
+Spatial Pooling (also called subsampling or downsampling) reduces the dimensionality of each feature map but retains the most important information. Spatial Pooling can be of different types: Max, Average, Sum etc.
+
 ![image_01](./assets/cnn2.png)
+
+### Normalization and activation
 
 ![image_01](./assets/cnn3.png)
 
 ![image_01](./assets/cnn0.png)
+
+Some networks:
+
+LeNet - Plate recognition - 1998
+
+![image_01](./assets/convnet-example.png)
+
+![image_01](./assets/inception.jpg)
+
+GogLeNet - Inception modules (GOOGLE)
+
+![image_01](./assets/googlenet.png)
+
+ResNet - Skip Connection (MICROSOFT)
+
+![image_01](./assets/resnet.jpg)
+
+Fully - Connected Layer
+
+![image_01](./assets/fcn.png)
+
+Tube CNN - 2017
+
+![image_01](./assets/tube-cnn.png)
+
+Just an example to show how powerful CNN can be:
+
+![image_01](./assets/cool_example.png)
+
+#### Main techniques used in object detection and segmentation:
+
+1. R-CNN and its derivatives
+
+![image_01](./assets/rcnn.png)
+
+1. Mulitbox and its derivatives (SSD, YOLO ...)
+
+![image_01](./assets/yolo.png)
+
+## Now let's talk apples & pears
+
