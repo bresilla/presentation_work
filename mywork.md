@@ -293,6 +293,7 @@ second term:
 
 https://www.youtube.com/watch?v=H7Ym3DMSGms
 
+![image_55](./assets/pixhawk.png)
 
 
 Training a model that when it sees this picture (or similar), it returns a R - to turn right.
